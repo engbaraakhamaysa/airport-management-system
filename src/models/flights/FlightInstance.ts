@@ -1,6 +1,6 @@
-import type { FlightStatus } from "../enums/FlightStatus.js";
-import type { Aircraft } from "./Aircraft.js";
-import type { FlightSeat } from "./FlightSeat.js";
+import type { FlightStatus } from "../../enums/FlightStatus.js";
+import type { Aircraft } from "../aircraft/Aircraft.js";
+import type { FlightSeat } from "../aircraft/FlightSeat.js";
 
 export class FlightInstance {
   constructor(

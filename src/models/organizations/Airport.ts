@@ -1,5 +1,5 @@
-import type { Address } from "../enums/Address.js";
-import { Flight } from "./Flight.js";
+import type { Address } from "../../enums/Address.js";
+import type { Flight } from "../flights/Flight.js";
 
 export class Airport {
   constructor(

@@ -1,4 +1,4 @@
-import type { AccountStatus } from "../enums/AccountStatus.js";
+import type { AccountStatus } from "../../enums/AccountStatus.js";
 
 export class Account {
   constructor(

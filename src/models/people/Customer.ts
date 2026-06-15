@@ -1,4 +1,4 @@
-import { Address } from "../enums/Address.js";
+import { Address } from "../../enums/Address.js";
 import { Account } from "./Account.js";
 import { Person } from "./Person.js";
 

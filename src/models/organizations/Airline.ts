@@ -1,5 +1,5 @@
-import { Aircraft } from "./Aircraft.js";
-import type { Flight } from "./Flight.js";
+import { Aircraft } from "../aircraft/Aircraft.js";
+import type { Flight } from "../flights/Flight.js";
 
 export class Airline {
   constructor(
