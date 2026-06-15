@@ -1,4 +1,4 @@
-import type { Address } from "../enums/Address.js";
+import type { Address } from "../../enums/Address.js";
 import { Account } from "./Account.js";
 
 export abstract class Person {

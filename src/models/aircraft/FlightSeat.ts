@@ -1,5 +1,5 @@
-import type { SeatClass } from "../enums/SeatClass.js";
-import type { SeatType } from "../enums/SeatType.js";
+import type { SeatClass } from "../../enums/SeatClass.js";
+import type { SeatType } from "../../enums/SeatType.js";
 import { Seat } from "./Seat.js";
 
 export class FlightSeat extends Seat {
